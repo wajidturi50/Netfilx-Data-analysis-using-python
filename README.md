@@ -9,9 +9,9 @@ I performed a comprehensive analysis of my Netflix data using Python. To begin w
    
 </head>
 <body>
-    <img src="[https://github.com/wajidturi50/Carbon-footprints/blob/main/Top%2010%20Carbon%20Reduction%20Projects.png](https://github.com/wajidturi50/Netfilx-Data-analysis-using-python/blob/main/Netflix%20Continues%20to%20Build%20its%20Global%20Audience.png)">
-    <img src="[https://github.com/wajidturi50/Carbon-footprints/blob/main/Total%20Carbon%20Emission%20Over%20the%20years.png](https://github.com/wajidturi50/Netfilx-Data-analysis-using-python/blob/main/Raiting%20for%20TV%20shows%20in%20US%20and%20indonishia.png)">
-    <img src="[https://github.com/wajidturi50/Carbon-footprints/blob/main/Total%20Emissions%20Over%20the%20Years.png](https://github.com/wajidturi50/Netfilx-Data-analysis-using-python/blob/main/Top%2010%20release%20year%20Vs%20Top%205%20Genres.png)">
+    <img src="https://github.com/wajidturi50/Carbon-footprints/blob/main/Top%2010%20Carbon%20Reduction%20Projects.png">
+    <img src="https://github.com/wajidturi50/Carbon-footprints/blob/main/Total%20Carbon%20Emission%20Over%20the%20years.png">
+    <img src="https://github.com/wajidturi50/Carbon-footprints/blob/main/Total%20Emissions%20Over%20the%20Years.png">
 </body>
 </head>
 
